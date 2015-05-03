@@ -1,0 +1,1 @@
+Adapted from PolarSSL's code https://polarssl.org/‎ and packaged as a Maple IDE's library and example sketch. Easily adaptable to Arduino (although the speed would be on the slow side of things).
